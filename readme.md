@@ -28,7 +28,7 @@ With these questions i perform my queries and solves the problem statements:
 ### Output:
 ![Screenshot 2025-01-11 175132](https://github.com/user-attachments/assets/0bfb5bcb-76f4-4a96-b24d-b12c22decf45)
 
-## Second: I create a two tables
+## Second: I create two tables
 
 ### Input:
 ![Screenshot 2025-01-11 175219](https://github.com/user-attachments/assets/a20231d2-6085-4a1f-9de3-a195fa5fdabd)
@@ -36,7 +36,7 @@ With these questions i perform my queries and solves the problem statements:
 ### Output:
 ![Screenshot 2025-01-11 175515](https://github.com/user-attachments/assets/59787a64-f837-4934-b098-7baa5360956b)
 
-## Third : I insert a data into the Department table
+## Third : I insert data into the Department table
 
 ### Input:
 ![Screenshot 2025-01-11 175455](https://github.com/user-attachments/assets/46860c50-5e83-4c54-80a5-ee3582512bf7)
@@ -44,7 +44,7 @@ With these questions i perform my queries and solves the problem statements:
 ### output:
 ![Screenshot 2025-01-11 175544](https://github.com/user-attachments/assets/bc1cdb87-da11-4452-a8fb-0b56a44c9d00)
 
-## Fourth: I insert a data into the Employee table
+## Fourth: I insert data into the Employee table
 
 ### Input:
 ![Screenshot 2025-01-11 175637](https://github.com/user-attachments/assets/4095c004-e3f5-443d-98ca-16dc356ae8e6)
@@ -52,7 +52,7 @@ With these questions i perform my queries and solves the problem statements:
 ### output:
 ![Screenshot 2025-01-11 175742](https://github.com/user-attachments/assets/9602a750-a2f4-4fc7-a7da-f7f7af9766c8)
 
-## Fifth : I practice questions taking these two tables and solve them:
+## Fifth : I practice questions by taking these two tables and solve them:
 
 ### Question 1. Find the Second Highest Salary
 
@@ -70,7 +70,7 @@ Problem: Find the second highest salary from the Employee table.
 #### Output:
 ![Screenshot 2025-01-11 181107](https://github.com/user-attachments/assets/740d603e-345c-4905-80a7-d2ec32b768cb)
 
-### Question 2. List Departments with More Than 2 Employees
+### Question 2. List of Departments with More Than 2 Employees
 
 Problem: List department names where the number of employees is greater than 2.
 
@@ -80,7 +80,7 @@ Problem: List department names where the number of employees is greater than 2.
 #### Output:
 ![Screenshot 2025-01-11 182114](https://github.com/user-attachments/assets/96632bfa-1cec-4f2e-86cf-46488c1375ea)
 
-### Question 3. Find Employees Who Earn More than Legal
+### Question 3. Find all the Employees Who Earn More than all the employees of Legal department 
 
 Problem: Find names of employees who earn more than Legal.
 
